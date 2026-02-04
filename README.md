@@ -111,18 +111,13 @@ I specialize in translating business needs into **clear documentation, data insi
 - Presented insights with actionable recommendations
 
 ---
-
-## 🏆 Certifications
-
-## 🎓 Certifications
-
 ## 🎓 Certifications
 
 - [**Excel VBA for Finance** — Corporate Finance Institute (CFI)]([https://credentials.corporatefinanceinstitute.com/XXXX](https://credentials.corporatefinanceinstitute.com/be8be86a-b689-41c5-8259-954858705f58#acc.jpOXM5u4))
 - [**Fundamentals of Data Analysis in Excel** — CFI]([https://credentials.corporatefinanceinstitute.com/XXXX](https://credentials.corporatefinanceinstitute.com/08471f15-aa9e-401a-9c85-ec9560e0725e#acc.hnCPxzHf))
 - [**SQL Fundamentals** — CFI]([https://credentials.corporatefinanceinstitute.com/XXXX](https://credentials.corporatefinanceinstitute.com/204c0aa7-49ab-4cbb-9a87-4ebfce9e1f54#acc.WtGi9C10))
 - [**Power Query Fundamentals** — CFI]([https://credentials.corporatefinanceinstitute.com/XXXX](https://credentials.corporatefinanceinstitute.com/cdcfc810-48cc-4800-8f73-99981794086e#acc.jtdiYlHn))
-- [**Dashboards & Data Visualization** — CFI]([https://credentials.corporatefinanceinstitute.com/6dfe4130-cbd8-45ed-a2eb-c47243e3a2c8#acc.fYCuaSm3))
+- [**Dashboards & Data Visualization** — CFI]([https://credentials.corporatefinanceinstitute.com/6dfe4130-cbd8-45ed-a2eb-c47243e3a2c8#acc.fYCuaSm3)
 - [**Introduction to Business Intelligence** — CFI]([https://credentials.corporatefinanceinstitute.com/XXXX](https://credentials.corporatefinanceinstitute.com/f30c734a-cdd6-497d-84be-66bcb5ecf19a#acc.LGXkMz0D))
 - Power BI  
 - Advanced Power BI  
