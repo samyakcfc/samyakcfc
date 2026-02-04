@@ -122,6 +122,16 @@ I specialize in translating business needs into **clear documentation, data insi
 
 ---
 
+---
+
+## ⚽ Beyond Work
+
+- ⚽ Chelsea FC supporter
+- 🏋️ Gym & fitness challenges
+- 🎮 Casual gaming
+- 🎌 Anime enthusiast
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:1f6feb&section=footer"/>
 </p>
