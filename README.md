@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge" />
+ <img src="https://komarev.com/ghpvc/?username=samyakcfc&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -24,6 +24,11 @@
 ---
 
 ## 👋 About Me
+
+<p align="center">
+  <img src="hello-minion.gif" width="180"/>
+</p>
+
 
 Detail-oriented **Business Systems Analyst** with an **MBA in Business Analytics (STEM)** and hands-on experience in **requirements documentation, workflow analysis, reporting, and QA/UAT support**.
 
