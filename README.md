@@ -114,6 +114,24 @@ I specialize in translating business needs into **clear documentation, data insi
 
 ## 🏆 Certifications
 
+## 🎓 Certifications
+
+- **Excel VBA for Finance** — CFI  
+  🔗 Credential: [https://credentials.corporatefinanceinstitute.com/XXXX](https://credentials.corporatefinanceinstitute.com/be8be86a-b689-41c5-8259-954858705f58#acc.0RSD6J8e)
+
+- **Fundamentals of Data Analysis in Excel** — CFI  
+  🔗 Credential: [https://credentials.corporatefinanceinstitute.com/XXXX](https://credentials.corporatefinanceinstitute.com/08471f15-aa9e-401a-9c85-ec9560e0725e#acc.s9lxAwGY)
+
+- **SQL Fundamentals** — CFI  
+  🔗 Credential: https://credentials.corporatefinanceinstitute.com/XXXX
+
+- **Power Query Fundamentals** — CFI  
+
+- **Dashboards & Data Visualization** — CFI  
+
+- **Introduction to Business Intelligence** — CFI  
+
+
 - Power BI  
 - Advanced Power BI  
 - SQL  
