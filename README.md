@@ -110,8 +110,6 @@ I specialize in translating business needs into **clear documentation, data insi
 - Identified workflow gaps and process inefficiencies
 - Presented insights with actionable recommendations
 
----
-## 🎓 Certifications
 
 ## 🎓 Certifications
 
