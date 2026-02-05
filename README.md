@@ -114,27 +114,38 @@ I specialize in translating business needs into **clear documentation, data insi
 
 ## 🎓 Certifications
 
-<p>
+<p align="center">
+  <!-- Excel / VBA -->
   <a href="https://credentials.corporatefinanceinstitute.com/be8be86a-b689-41c5-8259-954858705f58" target="_blank">
-    <img src="https://img.shields.io/badge/Excel%20VBA%20for%20Finance-2563eb?style=flat"/>
+    <img src="https://img.shields.io/badge/Excel%20VBA%20for%20Finance-16a34a?style=flat"/>
   </a>
+
+  <!-- Data Analysis -->
   <a href="https://credentials.corporatefinanceinstitute.com/0847ff15-aa9e-401a-9c85-ec956e0725e4" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Analysis%20in%20Excel-2563eb?style=flat"/>
+    <img src="https://img.shields.io/badge/Data%20Analysis%20in%20Excel-22c55e?style=flat"/>
   </a>
+
+  <!-- SQL -->
   <a href="https://credentials.corporatefinanceinstitute.com/204c0aa7-49ab-4cbb-9a87-4ebc6fef54ff" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20Fundamentals-2563eb?style=flat"/>
   </a>
+
+  <!-- Power Query -->
   <a href="https://credentials.corporatefinanceinstitute.com/cdfc8104-48cc-4808-8f73-99981794086e" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20Query%20Fundamentals-2563eb?style=flat"/>
+    <img src="https://img.shields.io/badge/Power%20Query%20Fundamentals-f59e0b?style=flat"/>
   </a>
+
+  <!-- Dashboards -->
   <a href="https://credentials.corporatefinanceinstitute.com/6dfe4130-cbd8-45ed-a2eb-c47243e3a2c8" target="_blank">
-    <img src="https://img.shields.io/badge/Dashboards%20%26%20Data%20Visualization-2563eb?style=flat"/>
+    <img src="https://img.shields.io/badge/Dashboards%20%26%20Data%20Visualization-8b5cf6?style=flat"/>
   </a>
+
+  <!-- BI -->
   <a href="https://credentials.corporatefinanceinstitute.com/f30c734a-cdd6-497d-84be-66bcb5ecf19a" target="_blank">
-    <img src="https://img.shields.io/badge/Business%20Intelligence%20Intro-2563eb?style=flat"/>
+    <img src="https://img.shields.io/badge/Business%20Intelligence%20Intro-ec4899?style=flat"/>
   </a>
 </p>
->
+
 
 
 ---
