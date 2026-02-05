@@ -127,7 +127,7 @@ I specialize in translating business needs into **clear documentation, data insi
 
 ## ⚽ Beyond Work
 
-- ⚽ Chelsea FC supporter
+- ⚽ Chelsea Football Club supporter
 - 🏋️ Gym & fitness challenges
 - 🎮 Casual gaming
 - 🎌 Anime enthusiast
